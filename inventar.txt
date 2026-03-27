@@ -1,0 +1,13 @@
+Mancera,Tonka Cola,550.0,2,EDP,Nisa
+Dior,Sauvage Elixir,650.0,15,EDP,Designer
+Chanel,Bleu de Chanel,550.0,8,Parfum,Designer
+Creed,Aventus,1450.0,3,EDP,Nisa
+Tom Ford,Tobacco Vanille,1100.0,2,EDP,Nisa
+Xerjoff,Erba Pura,950.0,5,EDP,Nisa
+Lattafa,Asad,150.0,20,EDP,Arabesc
+Afnan,9PM,180.0,12,EDP,Arabesc
+Roja Parfums,Elysium,1300.0,1,Parfum,Nisa
+Armani,Acqua di Gio,400.0,0,EDT,Designer
+Rasasi,Hawas,250.0,10,EDP,Arabesc
+Parfums de Marly,Layton,1050.0,4,EDP,Nisa
+Prada,Luna Rossa Black,480.0,6,EDP,Designer
